@@ -35,6 +35,7 @@ You need to specify the action is a mutation, what mutation method you're callin
 
 
 ### Activities
+This workshop is based off the tutorial [Learn GraphQL in 40 minutes](https://www.youtube.com/watch?v=ZQL7tL2S0oQ). If you get stuck, most of the solutions can be found at some point in that video.
 1. Run a single query to get a list of all books with their id, name, and authorid
 2. Discuss the following query do you think it will Run? Why or why not?
 `{
